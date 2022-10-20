@@ -1,0 +1,30 @@
+{
+  "name": "test-file",
+  "version": "0.0.1",
+  "description": "test file for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sass src/scss:dist/css",
+    "watch": "sass --watch src/scss:dist/css & live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitAmdahl/test_repo_bootstrap-sass.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "sass"
+  ],
+  "author": "rohit_kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitAmdahl/test_repo_bootstrap-sass/issues"
+  },
+  "homepage": "https://github.com/RohitAmdahl/test_repo_bootstrap-sass#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "live-server": "^1.2.2",
+    "sass": "^1.55.0"
+  }
+}
