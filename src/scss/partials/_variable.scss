@@ -1,4 +1,27 @@
 h1 {
   font-size: 15em;
-  color: rgba(171, 87, 3, 0.948);
+  color: #0a4d0592;
+}
+
+$blue: #1e385e;
+$indigo: #2c036e;
+$purple: #240759;
+$pink: #650234;
+$red: #dc3545;
+$orange: #6c3100;
+$yellow: #6c5205;
+$green: #0a4d0592;
+$teal: #0a392ba8;
+$cyan: #025464;
+
+.btn {
+  color: $purple;
+  background-color: var(--bs-btn-hover-bg);
+  border-color: $cyan;
+}
+
+.btn:hover {
+  color: $purple;
+  background-color: var(--bs-btn-hover-bg);
+  border-color: $cyan;
 }
