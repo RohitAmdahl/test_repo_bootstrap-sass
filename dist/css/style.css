@@ -1,6 +1,22 @@
-h1 {
-  font-size: 15em;
-  color: rgba(171, 87, 3, 0.948);
+.item-one {
+  background-color: #6fe0f6;
+}
+
+.item-two {
+  background-color: #f49446;
+}
+
+.item-three {
+  background-color: #1480f4;
+}
+
+.lead {
+  color: #f49446;
+}
+
+.display-4 {
+  font-size: 4em;
+  font-weight: bold;
 }
 
 /*# sourceMappingURL=style.css.map */

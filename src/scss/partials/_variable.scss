@@ -1,27 +1,17 @@
-h1 {
-  font-size: 15em;
-  color: #0d8f03fa;
-}
-
-$blue: #1e385e;
-$indigo: #2c036e;
+$blue: #1480f4;
+$indigo: #6836b9;
 $purple: #240759;
-$pink: #650234;
-$red: #dc3545;
-$orange: #6c3100;
-$yellow: #6c5205;
-$green: #0a4d0592;
-$teal: #0a392ba8;
-$cyan: #025464;
+$pink: #f18fc0;
+$red: #ea7d88;
+$orange: #f49446;
+$yellow: #e1ac0d;
+$green: #0ecd00f8;
+$teal: #08ce93a8;
+$cyan: #6fe0f6;
 
-.btn {
-  color: $purple;
-  background-color: var(--bs-btn-hover-bg);
-  border-color: $cyan;
-}
-
-.btn:hover {
-  color: $purple;
-  background-color: var(--bs-btn-hover-bg);
-  border-color: $cyan;
-}
+// .btn:hover {
+//   color: $blue;
+//   font-weight: bold;
+//   background-color: $cyan;
+//   border-color: $red;
+// }
